@@ -1,0 +1,4 @@
+Time period: 01.05.2020-01.05.2020
+Total time: 3005
+Average minutes: 3005.0
+01.05.2020: 30/0/5
